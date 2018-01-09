@@ -1,5 +1,5 @@
 ## 版本回退
-```{r, engine='zsh', count_lines} 
+```bash
 git add <file>
 git commit -m “version number”
 
