@@ -44,3 +44,7 @@ git push -u origin master
 git clone git@github.com:Clowlar/getskills.git
 ```
 
+## 分支管理禁用 fast forward
+```bash
+git merge --no-ff -m "merge with no-ff" dev
+```
